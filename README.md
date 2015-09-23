@@ -1,7 +1,7 @@
 # DALI Project Collaborative Intro WEBTIVITY
 
 
-## Overview 
+## Overview  cool
 
 *  In your groups, each person will use git to clone a version of a new landing page template project for your team.  
 *  Then you'll edit some html and css to make this template page reflect what your project is about.
