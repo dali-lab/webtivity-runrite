@@ -38,8 +38,8 @@ We'll have to use some Terminal command line dark magic here.  Copy/paste is you
 
   <br>![](docs/img/square.png) 2.0)  Open Terminal (on Windows open Git Shell)
   <br>![](docs/img/square.png) 2.1)  ```cd ~/Desktop```
-  <br>![](docs/img/square.png) 2.2)  ```git clone https://github.com/dali-lab/project-name.git```
-  <br>![](docs/img/square.png) 2.3)  ```cd dali-1hr-webdev```
+  <br>![](docs/img/square.png) 2.2)  ```git clone https://github.com/dali-lab/project-runrite.git```
+  <br>![](docs/img/square.png) 2.3)  ```cd project-runrite```
 
 what this does is change directory to your Desktop, then clones the the tutorial repository there, and then you cd into that cloned repository.  For the rest of this tutorial we assume that you have a Terminal window open and that you are cd'd into the repository you just cloned.  If you get any errors in the above give a shout! 
 
@@ -149,7 +149,7 @@ Now that you've resolved any conflicts you're ready to push to the remote reposi
 
 ###Done!
 
-Now you can go to [http://dali-lab.github.io/project-name](http://dali-lab.github.io/project-name) to see your site!
+Now you can go to [http://dali-lab.github.io/project-runrite](http://dali-lab.github.io/project-runrite) to see your site!
 
 
 <br>
